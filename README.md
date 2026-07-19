@@ -145,7 +145,6 @@ python3 analyze_data.py
 * Current & Voltage Monitoring
 * MQTT Communication
 * Firebase Cloud Storage
-* TinyML on ESP32
 * Predictive Failure Forecasting
 * Email/SMS Alerts
 * Mobile App Integration
