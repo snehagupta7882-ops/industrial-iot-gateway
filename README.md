@@ -6,19 +6,19 @@ The Industrial IoT Gateway is an ESP32-based smart monitoring system designed to
 
 This project demonstrates the integration of Embedded Systems, IoT, Cloud Computing, Data Analytics, and Artificial Intelligence for industrial monitoring and predictive maintenance.
 
-⸻
+
 
 🚀 Features
 
-* Real-time machine temperature monitoring using DHT22
+* Real-time machine temperature monitoring using    DHT22
 * Machine load monitoring using a potentiometer (simulation)
 * Live data visualization on OLED display
-* Industrial status indication using LEDs and buzzer
+* Industrial status indication using LEDs and      buzzer
 * Real-time cloud monitoring with Blynk IoT
 * CSV data logging for analysis
 * Data analysis using Pandas
-* Machine performance visualization using Matplotlib
-* AI-based anomaly detection using Isolation Forest
+* Machine performance visualization using          Matplotlib
+* AI-based anomaly detection using Isolation       Forest
 * Machine Health Score (0–100%)
 * Predictive maintenance recommendations
 
